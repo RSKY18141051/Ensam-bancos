@@ -1,0 +1,30 @@
+< THE SYMBOL TABLE >  bancos.com_  --  emu8086 assembler version: 4.08 
+===================================================================================================
+Name                     	Offset    	Size      	Type      	Segment   
+===================================================================================================
+DOC1                     	00103     	1         	VAR       	(NOSEG)   
+DOC2                     	00112     	1         	VAR       	(NOSEG)   
+HANDLE                   	00120     	2         	VAR       	(NOSEG)   
+AUXC                     	00122     	1         	VAR       	(NOSEG)   
+CLIENTE1                 	00145     	1         	VAR       	(NOSEG)   
+CLIENTE2                 	00175     	1         	VAR       	(NOSEG)   
+CLIENTE3                 	001B2     	1         	VAR       	(NOSEG)   
+CLIENTE4                 	001EF     	1         	VAR       	(NOSEG)   
+CLIENTE5                 	0022C     	1         	VAR       	(NOSEG)   
+TEXT1                    	00269     	1         	VAR       	(NOSEG)   
+TEXT2                    	0029A     	1         	VAR       	(NOSEG)   
+TEXT3                    	002CE     	1         	VAR       	(NOSEG)   
+TEXT4                    	00301     	1         	VAR       	(NOSEG)   
+TEXT5                    	00339     	1         	VAR       	(NOSEG)   
+_LOCATION_COUNTER__N1_L1C	00371     	-1        	LABEL     	(NOSEG)   
+_LOCATION_COUNTER__N2_L1D	00371     	-1        	LABEL     	(NOSEG)   
+_LOCATION_COUNTER__N3_L1E	00371     	-1        	LABEL     	(NOSEG)   
+_LOCATION_COUNTER__N4_L1F	00371     	-1        	LABEL     	(NOSEG)   
+_LOCATION_COUNTER__N5_L20	00371     	-1        	LABEL     	(NOSEG)   
+START                    	00371     	-1        	LABEL     	(NOSEG)   
+ERROR                    	003B4     	-1        	LABEL     	(NOSEG)   
+FIN                      	003B7     	-1        	LABEL     	(NOSEG)   
+===================================================================================================
+[ 02/03/2021  --  01:25:47 p. m. ] 
+< END >
+ 
